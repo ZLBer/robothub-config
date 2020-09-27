@@ -1,4 +1,4 @@
-server.port: "8081"
+server.port: "8080"
 example.property: "I AM IN THE DEFAULT"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
